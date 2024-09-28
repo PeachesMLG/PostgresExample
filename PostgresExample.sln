@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgresListener", "Postgre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgresNotifier", "PostgresNotifier\PostgresNotifier.csproj", "{8D8C4E11-F1D0-421E-9329-873E759FE02F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeRaceCondition", "TradeRaceCondition\TradeRaceCondition.csproj", "{E55FCD93-9849-455E-AB46-A003F341A611}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{8D8C4E11-F1D0-421E-9329-873E759FE02F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D8C4E11-F1D0-421E-9329-873E759FE02F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D8C4E11-F1D0-421E-9329-873E759FE02F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E55FCD93-9849-455E-AB46-A003F341A611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E55FCD93-9849-455E-AB46-A003F341A611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E55FCD93-9849-455E-AB46-A003F341A611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E55FCD93-9849-455E-AB46-A003F341A611}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

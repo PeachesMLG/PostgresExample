@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LqmFOSgeKViU4tkPo7w4eliJYp8RYv02w11QpQ6kp5H0hPK1OAr4WWfjoSt7/7LAn0sRVMRW66f3a27o32ruXQ==",
+  "success": true,
+  "projectFilePath": "/home/chris/RiderProjects/PostgresExample/PostgresListener/PostgresListener.csproj",
+  "expectedPackageFiles": [
+    "/home/chris/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",
+    "/home/chris/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/chris/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/chris/.nuget/packages/npgsql/8.0.4/npgsql.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

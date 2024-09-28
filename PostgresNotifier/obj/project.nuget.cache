@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "shtgY6QsQXUl7J3BLLRaIsGUY1DW5a4QyDdm+1MYtuLy3WqMNg9VKNrtoYhZMM1LyojhWqysty35OCXK6pLXvQ==",
+  "success": true,
+  "projectFilePath": "/home/chris/RiderProjects/PostgresExample/PostgresNotifier/PostgresNotifier.csproj",
+  "expectedPackageFiles": [
+    "/home/chris/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",
+    "/home/chris/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/chris/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/chris/.nuget/packages/npgsql/8.0.4/npgsql.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
